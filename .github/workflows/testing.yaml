@@ -8,7 +8,7 @@ jobs:
   build:
     runs-on: ${{ matrix.platform }}
     strategy:
-      fail-fast: false
+      fail-fast: false # if one test fails, complete the others
       matrix:
         platform: [ubuntu-latest]
         # platform: [ubuntu-latest, macos-latest, windows-latest]
