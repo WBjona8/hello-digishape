@@ -1,3 +1,4 @@
 # Contributors
 
-* JONA8 <koen.de.jong@witteveenbos.com>
+* Koen de Jong <koen.de.jong@witteveenbos.com>
+* Thijs Damsma <thijs.damsma@vanoord.com>

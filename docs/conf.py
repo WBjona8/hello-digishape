@@ -109,7 +109,7 @@ master_doc = "index"
 
 # General information about the project.
 project = "hello-digishape"
-copyright = "2021, JONA8"
+copyright = "2021, Koen de Jong"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
