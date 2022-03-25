@@ -7,6 +7,7 @@ To achieve this goal, the platform has to fulfill a number of requirements:
 * reachable
 * guidelines for the development of code that do not constrain the developers, but do increase the interoperability of code
 * well documented and indexed
+
 For the sharing of data connections are being made with existing initiatives sharing the FAIR data principles.
 
 
