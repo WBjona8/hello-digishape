@@ -1,18 +1,6 @@
 # hello-digishape
 
-Add a short description here!
-
-
-## Note
-
-> This is the main page of your project's [Sphinx] documentation. It is
-> formatted in [Markdown]. Add additional pages by creating md-files in
-> `docs` or rst-files (formated in [reStructuredText]) and adding links to
-> them in the `Contents` section below.
->
-> Please check [Sphinx], [recommonmark] and [autostructify] for more information
-> about how to document your project and how to configure your preferences.
-
+Hello Digishape is a small example project showing the standard layout suggested for committing projects to the digishape open source platform.
 
 ## Contents
 
@@ -20,6 +8,7 @@ Add a short description here!
 * [License](license)
 * [Authors](authors)
 * [Changelog](changelog)
+* [Digishape Open Source Platform](ds-osp)
 * [Module Reference](api/modules)
 
 
