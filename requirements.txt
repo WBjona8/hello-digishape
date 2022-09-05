@@ -1,0 +1,18 @@
+# This requirements file stores information about all the libraries, modules
+# and packages that are used while developing `test_esb`. This file can be
+# installed using the following command:
+# ```shell
+# pip install -r requirements.txt
+# ```
+
+# This package can have dependencies to other Witteveen+Bos packages as long
+# as their listed on the internal PyPi-server. In this requirements file
+# our own index is therefore added as an extra index url and is alos added
+# to the trusted hosts.
+--extra-index-url https://pypi.wbad.witteveenbos.com/simple/
+--trusted-host https://pypi.wbad.witteveenbos.com
+
+# Add the required packages below. Don't forget to add the packages required
+# for the runtime to `setup.cfg`. The CI/CD job `pytestbuild` will check this;
+# in case of missing imports in `pytestbuild`, this is an indication the
+# install_requires in `setup.cfg` is misconfigured
